@@ -1,6 +1,7 @@
-<h1> 도움되는 Git 명령어 모음 <h1><hr><br>
+<h1> 도움되는 Git 명령어 모음 <h1><br>
 
-<h1> * git init : git 생성하기 </h1><br>
+<ul>
+  <li>git init : git 생성하기</li\>
 git clone git_path : 코드가져오기
 git checkout branch_name : 브랜치 선택하기
 git checkout -t remote_path/branch_name : 원격 브랜치 선택하기
@@ -24,3 +25,4 @@ git config — global user.email “user_email” : git 계정Mail변경하기
 git stash / git stash save “description” : 작업코드 임시저장하고 브랜치 바꾸기
 git stash pop : 마지막으로 임시저장한 작업코드 가져오기
 git branch — set-upstream-to=remote_path/branch_name : git pull no tracking info 에러해결
+  </ul>
