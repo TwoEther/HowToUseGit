@@ -25,4 +25,4 @@
 + git stash pop : 마지막으로 임시저장한 작업코드 가져오기
 + git branch — set-upstream-to=remote_path/branch_name : git pull no tracking info 에러해결
 
-<image src = "https://user-images.githubusercontent.com/101616106/159818117-bc2f4071-eb5f-4293-ba40-783838e368eb.jpg">
+<image src = "">
