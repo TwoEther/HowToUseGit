@@ -26,3 +26,7 @@
 + git branch — set-upstream-to=remote_path/branch_name : git pull no tracking info 에러해결
 
 <image src = "https://user-images.githubusercontent.com/101616106/159818519-31708015-c65d-478d-82d5-e695a42eb71c.png">
+
+  
+출처 : https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=nomadgee&logNo=220812728587
+  
