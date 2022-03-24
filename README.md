@@ -19,8 +19,8 @@
 + git reset — soft HEAD^ : 코드는 살리고 commit만 취소하기
 + git reset — merge : merge 취소하기
 + git reset — hard HEAD && git pull : git 코드 강제로 모두 받아오기
-+ git config — global user.name “user_name ” : git 계정Name 변경하기
-+ git config — global user.email “user_email” : git 계정Mail변경하기
++ __git config — global user.name “user_name ” : git 계정Name 변경하기__
++ __git config — global user.email “user_email” : git 계정Mail변경하기__
 + git stash / git stash save “description” : 작업코드 임시저장하고 브랜치 바꾸기
 + git stash pop : 마지막으로 임시저장한 작업코드 가져오기
 + git branch — set-upstream-to=remote_path/branch_name : git pull no tracking info 에러해결
