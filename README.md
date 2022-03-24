@@ -24,6 +24,7 @@
 + git stash / git stash save “description” : 작업코드 임시저장하고 브랜치 바꾸기
 + git stash pop : 마지막으로 임시저장한 작업코드 가져오기
 + git branch — set-upstream-to=remote_path/branch_name : git pull no tracking info 에러해결
+<br><br>
 
 <image src = "https://user-images.githubusercontent.com/101616106/159818519-31708015-c65d-478d-82d5-e695a42eb71c.png">
 
